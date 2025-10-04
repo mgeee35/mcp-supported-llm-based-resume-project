@@ -1,0 +1,23 @@
+Ad: Ahmet Yılmaz
+Doğum Tarihi: 01 Ocak 1990
+E-posta: ahmet.yilmaz@example.com
+
+Eğitim:
+- Lisans: Bilgisayar Mühendisliği, Boğaziçi Üniversitesi, 2008-2012
+- Yüksek Lisans: Veri Bilimi, İstanbul Teknik Üniversitesi, 2013-2015
+
+İş Deneyimi:
+- Yazılım Mühendisi, ABC Teknoloji, 2012-2015
+  * Web uygulamaları geliştirme
+  * Veritabanı yönetimi
+- Kıdemli Veri Bilimci, XYZ Şirketi, 2016-2020
+  * Makine öğrenimi modelleri geliştirme
+  * Büyük veri analitiği
+- Teknik Lider, DEF Startup, 2021-Halen
+  * Ekip yönetimi
+  * Bulut tabanlı çözümler geliştirme
+
+Beceriler:
+- Python, Java, SQL
+- Makine Öğrenimi, Veri Analizi
+- AWS, Docker
